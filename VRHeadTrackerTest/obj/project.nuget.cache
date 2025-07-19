@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sPA4KJAo02E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adam Shea\\Documents\\Development\\TS2024_VRMod\\VRHeadTrackerTest\\VRHeadTrackerTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adam Shea\\.nuget\\packages\\unofficial.openvr\\1.1.0\\unofficial.openvr.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Adam Shea\Documents\Development\TS2024_VRMod\VRHeadTracker.cs\bin\Debug\net8.0\VRTrackingLib.deps.json
+C:\Users\Adam Shea\Documents\Development\TS2024_VRMod\VRHeadTracker.cs\bin\Debug\net8.0\VRTrackingLib.dll
+C:\Users\Adam Shea\Documents\Development\TS2024_VRMod\VRHeadTracker.cs\bin\Debug\net8.0\VRTrackingLib.pdb
+C:\Users\Adam Shea\Documents\Development\TS2024_VRMod\VRHeadTracker.cs\obj\Debug\net8.0\VRTrackingLib.csproj.AssemblyReference.cache
+C:\Users\Adam Shea\Documents\Development\TS2024_VRMod\VRHeadTracker.cs\obj\Debug\net8.0\VRTrackingLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Shea\Documents\Development\TS2024_VRMod\VRHeadTracker.cs\obj\Debug\net8.0\VRTrackingLib.AssemblyInfoInputs.cache
+C:\Users\Adam Shea\Documents\Development\TS2024_VRMod\VRHeadTracker.cs\obj\Debug\net8.0\VRTrackingLib.AssemblyInfo.cs
+C:\Users\Adam Shea\Documents\Development\TS2024_VRMod\VRHeadTracker.cs\obj\Debug\net8.0\VRTrackingLib.csproj.CoreCompileInputs.cache
+C:\Users\Adam Shea\Documents\Development\TS2024_VRMod\VRHeadTracker.cs\obj\Debug\net8.0\VRTrackingLib.dll
+C:\Users\Adam Shea\Documents\Development\TS2024_VRMod\VRHeadTracker.cs\obj\Debug\net8.0\refint\VRTrackingLib.dll
+C:\Users\Adam Shea\Documents\Development\TS2024_VRMod\VRHeadTracker.cs\obj\Debug\net8.0\VRTrackingLib.pdb
+C:\Users\Adam Shea\Documents\Development\TS2024_VRMod\VRHeadTracker.cs\obj\Debug\net8.0\ref\VRTrackingLib.dll
